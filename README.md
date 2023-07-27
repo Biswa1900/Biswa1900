@@ -1,6 +1,9 @@
 # Hi there I am Biswa 👋 👋
-# 💫 About Me:
+
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+# 💫 About Me:
+
 
 🔭 I’m currently working on Cloud and AI project.<br>🌱 I’m currently learning AI & ML<br>👯 I’m looking to collaborate on AI & ML<br>🤔 I’m looking for help with AI, Python, and ML<br>💬 Ask me about AI, Cloud, and Python.
 
