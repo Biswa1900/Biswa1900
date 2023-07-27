@@ -1,6 +1,6 @@
 # Hi, I am Biswa 👋 👋
 # 💫 About Me:
-🔭 I’m currently working on Cloud and AI project.<br>🌱 I’m currently learning AI & ML<br>👯 I’m looking to collaborate on AI & ML<br>🤔 I’m looking for help with AI, Python, and ML<br>💬 Ask me about ...
+🔭 I’m currently working on Cloud and AI project.<br>🌱 I’m currently learning AI & ML<br>👯 I’m looking to collaborate on AI & ML<br>🤔 I’m looking for help with AI, Python, and ML<br>💬 Ask me about AI, Cloud, and Python.
 
 
 # 💻 Tech Stack:
